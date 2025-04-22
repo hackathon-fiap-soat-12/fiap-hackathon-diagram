@@ -1,4 +1,4 @@
-# fiap-hackathon-diagrama
+# fiap-hackathon-diagram
 
 Este repositório tem como objetivo armazenar os diagramas criados no projeto desenvolvido para o Hackathon da pós-graduação em Arquitetura de Software da FIAP.
 
